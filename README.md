@@ -1,2 +1,3 @@
 # dad-joke-terminal
-This is gonna be dumb lol
+
+Dad jokes in your terminal, a very fast project
